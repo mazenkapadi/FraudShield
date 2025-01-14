@@ -1,0 +1,12 @@
+# Node.js
+frontend/node_modules
+
+# Rust
+backend/target
+
+# Environment files
+**/*.env
+**/*.env.local
+
+# Docker
+**/docker-compose.override.yml
